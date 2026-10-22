@@ -6,6 +6,8 @@
   <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs?username=lidiapcarvalho&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true&title_color=273cf5" alt="top langs" />
 </div>
 
+<h2 align="center"></h2>
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
