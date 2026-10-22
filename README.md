@@ -9,10 +9,11 @@
 <h2 align="center"></h2>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Pac-Man Contribution Graph" src="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lidiapcarvalho/lidiapcarvalho/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lidiapcarvalho/lidiapcarvalho/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/lidiapcarvalho/lidiapcarvalho/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 <h2 align="center">Profile View</h2>
