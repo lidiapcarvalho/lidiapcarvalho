@@ -1,0 +1,19 @@
+name: Generate Arcade Contribution Graph
+
+on:
+  # Corre automaticamente todos os dias à meia-noite
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite correr manualmente a partir da aba Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate SVG
+        uses: abozanona/pacman-contribution-graph@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          game: "pacman" # Define o jogo como Bomberman
+          theme: "github-dark" # Opções: github-light, github-dark, gitlab-dark
