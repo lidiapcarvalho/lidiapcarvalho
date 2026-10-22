@@ -6,3 +6,10 @@
   <img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs?username=lidiapcarvalho&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true&title_color=273cf5" alt="top langs" />
 </div>
 
+###
+<h2 align="center">Profile View</h2>
+<div align="center">
+  <img src="https://count.getloli.com/@lidiapcarvalho?theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
+</div>
+
+###
