@@ -14,6 +14,6 @@ jobs:
       - name: Generate SVG
         uses: abozanona/pacman-contribution-graph@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          game: "pacman" # Define o jogo como Bomberman
+          github_user_name: "lidiapcarvalho"
+          game: "pacman" # Define o jogo como Pac-Man
           theme: "github-dark" # Opções: github-light, github-dark, gitlab-dark
